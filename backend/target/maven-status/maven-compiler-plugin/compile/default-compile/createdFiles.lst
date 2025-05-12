@@ -1,0 +1,4 @@
+com/example/videostreaming/repository/VideoRepository.class
+com/example/videostreaming/VideoStreamingApplication.class
+com/example/videostreaming/model/VideoMetadata.class
+com/example/videostreaming/controller/VideoController.class
